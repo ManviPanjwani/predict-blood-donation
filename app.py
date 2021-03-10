@@ -79,14 +79,5 @@ st.subheader('Prediction Probability')
 st.write(prediction_proba)
 
 
-# In[2]:
-
-
-pip install streamlit
-
-
-# In[ ]:
-
-
 
 
